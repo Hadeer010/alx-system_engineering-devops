@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod u+x detect_school_data.sh
