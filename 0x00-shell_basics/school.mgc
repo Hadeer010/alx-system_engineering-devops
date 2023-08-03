@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x detect_school_data.sh
+file -m school.mgc SCHOOL
