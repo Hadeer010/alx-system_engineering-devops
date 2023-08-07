@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp "bin" /etc/passwd \ wc -1
+gerp "bin" /etc/passwd \ wc -l
